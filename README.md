@@ -1,5 +1,5 @@
 # comp3005_a3
-Instructions: \n
-import database.sql to DBMS
-connect database
-run the Main.java
+Instructions: <br /> 
+import database.sql to DBMS <br /> 
+connect database <br /> 
+run the Main.java <br /> 
